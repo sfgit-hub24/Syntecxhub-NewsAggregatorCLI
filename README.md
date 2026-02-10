@@ -48,5 +48,3 @@ Safa Fatima
 2nd Year CSE Student
 ---
 Internship Task Submission 
-## 📂 Project Structure
-
