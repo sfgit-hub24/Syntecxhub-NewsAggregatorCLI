@@ -1,0 +1,17 @@
+# environment
+.env
+
+# logs
+*.log
+
+# generated files
+*.json
+*.csv
+*.xlsx
+
+# python
+__pycache__/
+*.pyc
+
+# venv
+venv/
