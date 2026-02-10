@@ -1,7 +1,7 @@
 # 📰 News Aggregator CLI
 A Python-based Command Line News Aggregator that fetches real-time headlines from multiple sources using NewsAPI, supports filtering, deduplication, and exporting results to JSON/CSV/Excel.
- **This project was developed as Task 4 during my Python Development Internship at SyntecxHub.**
- 
+---
+Internship Task Week - 4
 It demonstrates API integration, CLI design, data processing, file automation, and secure environment handling.
 ---
 ## Features
@@ -30,6 +30,16 @@ It demonstrates API integration, CLI design, data processing, file automation, a
 ## Sample Output
 # News Output
 ![Output](assets/news-output.jpg)
+---
+## Security & Private Practices
+This project follows basic security best practices:
+- Uses environment variables (.env) for storing API keys
+- No credentials hardcoded in source code
+- .env excluded via .gitignore
+- Logs and generated data files not committed
+- Sensitive information removed/blurred from screenshots
+
+Note: Always protect your API keys and never upload them to public repositories.
 ---
 ## Author
 Safa Fatima
