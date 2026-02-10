@@ -28,7 +28,8 @@ It demonstrates API integration, CLI design, data processing, file automation, a
 - JSON / CSV handling
 ---
 ## Sample Output
-
+# News Output
+![Output](assets/news-output.jpg)
 ---
 ## Author
 Safa Fatima
