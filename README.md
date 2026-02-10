@@ -2,7 +2,7 @@
 A Python-based Command Line News Aggregator that fetches real-time headlines from multiple sources using NewsAPI, supports filtering, deduplication, and exporting results to JSON/CSV/Excel.
 ---
 Internship Task Week - 4
-
+---
 It demonstrates API integration, CLI design, data processing, file automation, and secure environment handling.
 ---
 ## Features
